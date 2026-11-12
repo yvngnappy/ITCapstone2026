@@ -29,5 +29,5 @@ python phishing_classfier.py
 
 - [Setup Guide](docs/setup.md)
 - [Architecture](docs/architecture.md)
-- [Decision Records](docs/decisions.md)
+- [Decision Records](docs/decisions/0001-use-cli-interface.md)
 - [Fresh Clone Test](docs/test.md)
