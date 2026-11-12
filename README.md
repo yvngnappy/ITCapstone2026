@@ -20,8 +20,7 @@ This program runs a user-friendly phishing detection system for college faculty 
 - We constructed the setup utilizing python sandbox and attempted visual studio due to incompatability with Python
 
 Use the commands below to clone the repository:
-'''
-bash
+'''bash
 git clone https://github.com/yvngnappy/ITCapstone2026/repo.git
 cd repo
 python phishing_classfier.py
