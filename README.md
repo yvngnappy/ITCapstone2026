@@ -28,4 +28,4 @@ python phishing_classfier.py
 
 - [Setup Guide](docs/setup.md)
 - [Architecture](docs/architecture.md)
-- [Decision Records](docs/decisions/)
+- [Decision Records](docs/decisions)
