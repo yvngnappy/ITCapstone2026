@@ -2,7 +2,7 @@
  
 ## Tester
  
-Charlie – 2026-11-11 – Tested on Ubuntu 20.04 LTS
+Nytavia Tyson – 2026-11-11 – Tested on PyCharm 2026.2.3
  
 ## Result
 
