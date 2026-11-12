@@ -16,6 +16,6 @@ Nytavia Tyson – 2026-11-11 – Tested on PyCharm 2026.2.3
  
 ## Fixes Made
  
-1. Updated the Quick Start instructions to use `python3` explicitly (commit [abc1234](#)).  
-2. Added a note in `docs/setup.md` with an example of creating a `sample.txt` file (commit [def5678](#)).  
-3. Clarified in Troubleshooting that the report file should have a `.txt` extension (commit [ghi9012](#)).
+1. Updated the Quick Start instructions to use `python3` explicitly.
+2. Added a note in `docs/setup.md` with an example of creating a `sample.txt` file.  
+3. Clarified in Troubleshooting that the report file should have a `.txt` extension.
