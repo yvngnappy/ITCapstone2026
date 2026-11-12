@@ -26,7 +26,7 @@ python phishing_classfier.py
 '''
 ## Documentation
 
-- [Setup Guide](docs/setup.md)
-- [Architecture](docs/architecture.md)
-- [Decision Records](docs/decisions.md)
-- [Fresh Clone Test](docs/test.md)
+- [Setup Guide](docs/Setup.md)
+- [Architecture](docs/Architecture.md)
+- [Decision Records](docs/Decision Records.md)
+- [Fresh Clone Test](docs/Fresh Clone Test.md)
